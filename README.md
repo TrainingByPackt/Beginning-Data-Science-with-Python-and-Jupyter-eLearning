@@ -23,7 +23,9 @@ This course will require a computer system for the instructor and one for each s
 ## Software requirements
 * Python 3.5+
 * Anaconda 4.3+
+
 **Python libraries included with Anaconda installation**:
+
 * matplotlib 2.1.0+
 * ipython 6.1.0+
 * requests 2.18.4+
@@ -33,7 +35,9 @@ This course will require a computer system for the instructor and one for each s
 * scikit-learn 0.19.0+
 * seaborn 0.8.0+
 * bokeh 0.12.10+
+
 **Python libraries that require manual installation**:
+
 * mlxtend
 * version_information
 * ipython-sql
